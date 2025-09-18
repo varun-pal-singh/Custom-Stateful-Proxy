@@ -1,0 +1,19 @@
+POST /Bancs/RSK/RSK335.do HTTP/HTTP/1.1
+Host: eclear.mcxccl.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 2032
+Origin: https://eclear.mcxccl.com
+Connection: keep-alive
+Referer: https://eclear.mcxccl.com/Bancs/RSK/RSK335.do?app=bancsapp?prefix=/RSK&page=/RSK335.do&confViewSize=22&reqType=0&mode=DEF_MODE&cParent=&parentName=blank&browserType=IE55&GuiWinName=RSK335&compname=RSK&locale=&winlocale=&over_ride_button=Cancel&AvlHt=726&AvlWd=1026&tblWd=1010&GuiBrowserInst=0&theme=black&confViewSize=22&pageId=RSK335&wintitle=Margin%20Utilization%20View&availHeight=820&availWidth=1067&tabid=2&tabId=panel2
+Cookie: AlteonP=Am9iBUNEqMAv4sg/HAHFHg$$; JSESSIONID=0001eZ5v2uQ2pWFXBpVp4F7qaYv:-410IQK; TS01d67e35=01de3801a581aa27c23414750147dcbb4f43c840f2747055365671e8f7e878c0c5586ce2e0fa7d4fb8e37a571ecad0b9d58fb537a65e1062e0fc3916a683cc7716513d101f97b1e6cd6206cdf76de9d06baab7fa68; TS254a1510027=08f91e7fa6ab2000ba9571e599167a0bb4c3aa9ed756ac6f968585129db6c47aaec87e71fe68b10e08bc309f6b113000f027b14917c539e67bcfa96a76555858e299eeb63e7d3d72066649b4f8316366b8169dc5414ca462046f6e9c287ba700
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+
+propertyMap(MCB_SearchWC_wca_bpid_Cmb)=DFLT&MCB_SearchWC_wca_bpid=&&propertyMap(MCB_SearchWC_wca_bpid_op)==&MCB_SearchWC_wca_actype=&&propertyMap(MCB_SearchWC_wca_actype_op)==&propertyMap(MCB_SearchWC_wca_associatedtm_Cmb)=DFLT&MCB_SearchWC_wca_associatedtm=&&propertyMap(MCB_SearchWC_wca_associatedtm_op)==&propertyMap(MCB_SearchWC_wca_associatedcm_Cmb)=DFLT&MCB_SearchWC_wca_associatedcm=&&propertyMap(MCB_SearchWC_wca_associatedcm_op)==&MCB_SearchWC_wca_valuedate=&&propertyMap(MCB_SearchWC_wca_valuedate_op)==&MCB_SearchWC_wca_category=&&propertyMap(MCB_SearchWC_wca_category_op)==&MCB_SearchWC_wca_CMName=DFLT&&propertyMap(MCB_SearchWC_wca_CMName_op)==&MCB_SearchWC_wca_TMName=DFLT&&propertyMap(MCB_SearchWC_wca_TMName_op)==&MCB_SearchWC_wca_datedummy1=&&propertyMap(MCB_SearchWC_wca_datedummy1_op)==&MCB_SearchWC_wca_datedummy2=&&propertyMap(MCB_SearchWC_wca_datedummy2_op)==&&GRID_RESPONSE=RSK335_Table&operationType=ET&searchClicked=true&PageNum=0&service=qryMarginUtilView&windowName=RSK335&MODE=DEF_MODE&compName=RSK&lgbinst=0&WRITE_APP=true&REQ_TYPE=0&sQuery=Client%20Code%20%20Equals%20%20DFLT%20AND%20TM%20%2F%20CP%20%20Equals%20%20DFLT%20AND%20CM%20%20Equals%20%20DFLT&AvlWd=1012&tblWd=990&MCBrowserEventInformation=sourceElementName~%7C~Search%23*%23eventType~%7C~click%23*%23butId~%7C~null&IXHRts=1758196271773&XHR=true&rndaak=uMvcSgWnwObpCOVmjOv7DeqzC&theme=black&tabId=panel2&mode=DEF_MODE&GuiBrowserInst=0&parentName=blank&parentToChildCopyData=&childToParentCopyData=&parentTabId=&childToParentJavaCopyFlag=&openedFromBtn=&confViewSize=22&favouriteData=&ExtnAttrDropDownValueDesc=%7B%7D&ExtnRadioValues=%7B%7D&butvalue=&reqType=1&childTabId=&popupctrl=&callPopUp=&frombsle=NO&fromTblBtn=NO&functionName=&ifCallPaint=0&controlName=&param=&WindowName=&parentSelectedRow=&browserType=IE55&GuiWinName=RSK335&compname=RSK&locale=&winlocale=&MCBrowserEventInformation=sourceElementName~%7C~Search%23*%23eventType~%7C~click%23*%23butId~%7C~null&SortedColumnName=&over_ride_button=Cancel&confViewSize=&parentToChildData=

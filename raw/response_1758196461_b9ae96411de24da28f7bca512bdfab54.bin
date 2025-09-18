@@ -1,0 +1,9 @@
+HTTP/HTTP/2.0 200 
+content-type: application/json
+strict-transport-security: max-age=31536000
+date: Thu, 18 Sep 2025 11:54:20 GMT
+content-length: 59
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"newtab_tile_1":[],"newtab_tile_2":[],"newtab_tile_3":[]}

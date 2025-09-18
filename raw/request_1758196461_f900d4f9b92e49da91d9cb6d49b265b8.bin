@@ -1,0 +1,11 @@
+POST /v1/ads HTTP/HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+accept: */*
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate, br, zstd
+content-type: application/json
+content-length: 237
+priority: u=4
+te: trailers
+
+{"context_id":"637c206f-cc2b-4331-aecf-65da005a03ca","placements":[{"placement":"newtab_tile_1","count":1},{"placement":"newtab_tile_2","count":1},{"placement":"newtab_tile_3","count":1}],"blocks":["CAMSBmFtYXpvbg"],"credentials":"omit"}

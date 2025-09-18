@@ -1,0 +1,462 @@
+{
+  "eclear.mcxccl.com": {
+    "timestamp": 1758196455,
+    "host": "eclear.mcxccl.com",
+    "scheme": "https",
+    "method": "POST",
+    "http_version": "HTTP/1.1",
+    "full_url": "https://eclear.mcxccl.com/Bancs/RSK/RSK335.do",
+    "path": "/Bancs/RSK/RSK335.do",
+    "query": [],
+    "request_headers": [
+      [
+        "Host",
+        "eclear.mcxccl.com"
+      ],
+      [
+        "User-Agent",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+      ],
+      [
+        "Accept",
+        "*/*"
+      ],
+      [
+        "Accept-Language",
+        "en-US,en;q=0.5"
+      ],
+      [
+        "Accept-Encoding",
+        "gzip, deflate, br, zstd"
+      ],
+      [
+        "Content-Type",
+        "application/x-www-form-urlencoded; charset=UTF-8"
+      ],
+      [
+        "X-Requested-With",
+        "XMLHttpRequest"
+      ],
+      [
+        "Content-Length",
+        "2032"
+      ],
+      [
+        "Origin",
+        "https://eclear.mcxccl.com"
+      ],
+      [
+        "Connection",
+        "keep-alive"
+      ],
+      [
+        "Referer",
+        "https://eclear.mcxccl.com/Bancs/RSK/RSK335.do?app=bancsapp?prefix=/RSK&page=/RSK335.do&confViewSize=22&reqType=0&mode=DEF_MODE&cParent=&parentName=blank&browserType=IE55&GuiWinName=RSK335&compname=RSK&locale=&winlocale=&over_ride_button=Cancel&AvlHt=726&AvlWd=1026&tblWd=1010&GuiBrowserInst=0&theme=black&confViewSize=22&pageId=RSK335&wintitle=Margin%20Utilization%20View&availHeight=820&availWidth=1067&tabid=2&tabId=panel2"
+      ],
+      [
+        "Cookie",
+        "AlteonP=Am9iBUNEqMAv4sg/HAHFHg$$; JSESSIONID=0001eZ5v2uQ2pWFXBpVp4F7qaYv:-410IQK; TS01d67e35=01de3801a581aa27c23414750147dcbb4f43c840f2747055365671e8f7e878c0c5586ce2e0fa7d4fb8e37a571ecad0b9d58fb537a65e1062e0fc3916a683cc7716513d101f97b1e6cd6206cdf76de9d06baab7fa68; TS254a1510027=08f91e7fa6ab200057875a1f99c8b49e26585bbdbbc88700253166b3f76aae2d9962e8e6d149ea0a081a1ed8011130005b001f4803ec9489740745709301cdd93aa3bebe6783253719d6fbe43e28a9039ea8a11d8b16e9cd86a3817511c9ff25"
+      ],
+      [
+        "Sec-Fetch-Dest",
+        "empty"
+      ],
+      [
+        "Sec-Fetch-Mode",
+        "cors"
+      ],
+      [
+        "Sec-Fetch-Site",
+        "same-origin"
+      ],
+      [
+        "Priority",
+        "u=0"
+      ]
+    ],
+    "response_status": 200,
+    "response_reason": "OK",
+    "response_headers": [
+      [
+        "Date",
+        "Thu, 18 Sep 2025 11:54:14 GMT"
+      ],
+      [
+        "X-Frame-Options",
+        "SAMEORIGIN"
+      ],
+      [
+        "Cache-Control",
+        "no-cache, no-store, max-age=0, must-revalidate"
+      ],
+      [
+        "Pragma",
+        "no-cache"
+      ],
+      [
+        "Expires",
+        "0"
+      ],
+      [
+        "Strict-Transport-Security",
+        "max-age=31536000 ; includeSubDomains"
+      ],
+      [
+        "X-XSS-Protection",
+        "1; mode=block"
+      ],
+      [
+        "X-Content-Type-Options",
+        "nosniff"
+      ],
+      [
+        "Content-Security-Policy",
+        "connect-src 'self';img-src 'self';base-uri 'self';form-acion 'self';"
+      ],
+      [
+        "Keep-Alive",
+        "timeout=5, max=100"
+      ],
+      [
+        "Connection",
+        "Keep-Alive"
+      ],
+      [
+        "Content-Type",
+        "text/html;charset=UTF-8"
+      ],
+      [
+        "Content-Language",
+        "en-US"
+      ],
+      [
+        "Set-Cookie",
+        "TS01d67e35=01de3801a5b5c2c40fcfe5ca0c1aa641bb5193e0984a27eac3dcbc05201aad8a5fcaa23c521fee527ff4ada1489ce7f18d85fb020e77ad3dc137e17b487838eec0d22be109ed899e2afe0b721e5cc7bd1d8d1a51a1; Path=/; Secure; HttpOnly;"
+      ],
+      [
+        "Set-Cookie",
+        "TS254a1510027=08f91e7fa6ab2000f316a7bfb5db7ceee83ea5326cb5575ea1137eb89b4042f35842e640134a4e170865377dd11130001e2b43f8a82a59775b0feb719bd401df44094013736f4810a6ba4260de8be05436dfa95732f0110926b4440e5746dcc3; Path=/"
+      ],
+      [
+        "Transfer-Encoding",
+        "chunked"
+      ]
+    ],
+    "request_body_parsed": {
+      "propertyMap(MCB_SearchWC_wca_bpid_Cmb)": "DFLT",
+      "MCB_SearchWC_wca_bpid": "",
+      "propertyMap(MCB_SearchWC_wca_bpid_op)": "=",
+      "MCB_SearchWC_wca_actype": "",
+      "propertyMap(MCB_SearchWC_wca_actype_op)": "=",
+      "propertyMap(MCB_SearchWC_wca_associatedtm_Cmb)": "DFLT",
+      "MCB_SearchWC_wca_associatedtm": "",
+      "propertyMap(MCB_SearchWC_wca_associatedtm_op)": "=",
+      "propertyMap(MCB_SearchWC_wca_associatedcm_Cmb)": "DFLT",
+      "MCB_SearchWC_wca_associatedcm": "",
+      "propertyMap(MCB_SearchWC_wca_associatedcm_op)": "=",
+      "MCB_SearchWC_wca_valuedate": "",
+      "propertyMap(MCB_SearchWC_wca_valuedate_op)": "=",
+      "MCB_SearchWC_wca_category": "",
+      "propertyMap(MCB_SearchWC_wca_category_op)": "=",
+      "MCB_SearchWC_wca_CMName": "DFLT",
+      "propertyMap(MCB_SearchWC_wca_CMName_op)": "=",
+      "MCB_SearchWC_wca_TMName": "DFLT",
+      "propertyMap(MCB_SearchWC_wca_TMName_op)": "=",
+      "MCB_SearchWC_wca_datedummy1": "",
+      "propertyMap(MCB_SearchWC_wca_datedummy1_op)": "=",
+      "MCB_SearchWC_wca_datedummy2": "",
+      "propertyMap(MCB_SearchWC_wca_datedummy2_op)": "=",
+      "GRID_RESPONSE": "RSK335_Table",
+      "operationType": "ET",
+      "searchClicked": "true",
+      "PageNum": "0",
+      "service": "qryMarginUtilView",
+      "windowName": "RSK335",
+      "MODE": "DEF_MODE",
+      "compName": "RSK",
+      "lgbinst": "0",
+      "WRITE_APP": "true",
+      "REQ_TYPE": "0",
+      "sQuery": "Client Code  Equals  DFLT AND TM / CP  Equals  DFLT AND CM  Equals  DFLT",
+      "AvlWd": "1012",
+      "tblWd": "990",
+      "MCBrowserEventInformation": "sourceElementName~|~Search#*#eventType~|~click#*#butId~|~null",
+      "IXHRts": "1758196451839",
+      "XHR": "true",
+      "rndaak": "uMvcSgWnwObpCOVmjOv7DeqzC",
+      "theme": "black",
+      "tabId": "panel2",
+      "mode": "DEF_MODE",
+      "GuiBrowserInst": "0",
+      "parentName": "blank",
+      "parentToChildCopyData": "",
+      "childToParentCopyData": "",
+      "parentTabId": "",
+      "childToParentJavaCopyFlag": "",
+      "openedFromBtn": "",
+      "confViewSize": "22",
+      "favouriteData": "",
+      "ExtnAttrDropDownValueDesc": "{}",
+      "ExtnRadioValues": "{}",
+      "butvalue": "",
+      "reqType": "1",
+      "childTabId": "",
+      "popupctrl": "",
+      "callPopUp": "",
+      "frombsle": "NO",
+      "fromTblBtn": "NO",
+      "functionName": "",
+      "ifCallPaint": "0",
+      "controlName": "",
+      "param": "",
+      "WindowName": "",
+      "parentSelectedRow": "",
+      "browserType": "IE55",
+      "GuiWinName": "RSK335",
+      "compname": "RSK",
+      "locale": "",
+      "winlocale": "",
+      "SortedColumnName": "",
+      "over_ride_button": "Cancel",
+      "parentToChildData": ""
+    },
+    "response_body_parsed": "IXHRts#*#1758196451839~|~ErrorSeverity#*#0~|~~|~RSK335_Table#*#\n\n\n\n\n\n\n\n<script type=\"text/javascript\" src=\"../common/common_js/ContextMenu.js\"></script>\n\n<script type=\"text/javascript\" src=\"../common/common_js/efx.js\"></script>\n <INPUT TYPE=hidden id=\"selectedRow_RSK335\" name=\"selectedRow_RSK335\" value=-1 > <INPUT TYPE=hidden id=\"tableAppMngr_RSK335\" name=\"tableAppMngr_RSK335\" value=\"N\" > <INPUT TYPE=hidden id=\"butPressed_RSK335\" name=\"butPressed_RSK335\" value=\"NOTSET\" > <INPUT TYPE=hidden id=\"isOk_RSK335\" name=\"isOk_RSK335\" value=\"NOTSET\" ><FIELDSET class=TableEffect id=RSK335 style=\"width:1012px;height:350px;\"><LEGEND CLASS=grphdrlgnd></LEGEND><input type=\"hidden\" value=\"1\" id=\"totNoOfRec\" name=\"totNoOfRec\"/><div id=\"tableActionsContainer\"><a id=\"openLink\" href='#' class=\"btn openLinkBtn\" title=\"Show Table buttons\" tabindex=0 data-tab=0>&#187;</a><ul id=\"rightButtonContainer\" class=\"hide\"><li><input type=\"button\" id=\"Modify8\" butValue=\"Modify\" butId=\"8\" value=\"Modify\" title=\"Modify\" class=\"btn\" tabindex=\"0\" data-tab=\"0\"/></li><li><input type=\"button\" id=\"Authorise9\" butValue=\"Authorise\" butId=\"9\" value=\"Authorise\" title=\"Authorise\" class=\"btn\" tabindex=\"0\" data-tab=\"0\"/></li><li id=\"moreAction\" tableId=\"RSK335_Table\"><a class=\"btn dropdown-toggle\" href=\"#\" title=\"More Actions\" tabindex=0 data-tab=0>More Actions&nbsp;<span class=\"caret\"></span></a><ul id=\"tableMoreActionContainer\" class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"dropdownMenu\"><li class=\"divider\"></li><li class=\"export \" id=\"Excel\"><a title=\"Export To Excel\" tabindex=0 data-tab=0 href=\"#\">Export To Excel</a></li> <li class=\"export \" id=\"PDF\"><a title=\"Export To PDF\" tabindex=0 data-tab=0 href=\"#\">Export To PDF</a></li><li class=\"columnOption\"><a tabindex=\"0\" title=\"Column Options\" href=\"#\">Column Options</a></li></ul></li></ul><div class=\"tbleBtnHolder hide\"><a id=\"tblCompareBtn\" class=\"tblCompareBtnClass\" title=\"Compare Row Data\"><i class=\"fa fa-exchange\" aria-hidden=\"true\"></i></a></div><div class=\"pagination pagination-right\"><span class=\"\" data-page=\"Page 1 of 1\">Page 1 of 1</span><input type=\"text\" title=\"Table View Size\" id=\"confViewSizeBox\" value=\"22\" disabled/><ul><li class=\"\"><a title=\"Prev\" butId=\"4\" enableAlways=\"2\" butValue=\"Prev\" tableId=\"RSK335_Table\" id=\"prev\" href=\"#\" class=\"prev prev_disabled\" tabindex=\"-1\" data-tab=0></a></li><li class=\"\"><a title=\"Next\" butId=\"5\" enableAlways=\"2\" butValue=\"Next\" tableId=\"RSK335_Table\" id=\"next\" href=\"#\" class=\"next next_disabled\" tabindex=\"-1\" data-tab=0></a></li></ul></div></div><DIV CLASS=\"dwtbldiv\" id=\"dw_1\" style=\"height:322px\"><table flag=\"new\" tableRecSize=\"1\" class=\"tbl\" viewSize='22' SelectedRowName='selectedRow_RSK335' startRow='0' TableIndex='tableAppMngr_RSK335' MoreActionsLabel='More Actions' butPressedName='butPressed_RSK335' selectedRow_RSK335='-1' type='Table' headerLocation='top' dataGrid='YES' SelectedRow='0' tblOrGrb='tbl' tblWCName='wc_RSK_mrgnUtilView_lst' TblName='RSK335_Table_Table' prevButPressed='' tableMaxSize='22' headerTblName='RSK335_Table_Header' noOfRowsFrmSvr='22' id='RSK335_Table' datasize='1' tableLevelButtonsReq='true'><COLGROUP class=\"tblcell\"><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></COLGROUP><thead><tr><th columnLabel=\"wca_associatedcm\" data-sort=\"false\">CM Name ID&nbsp;</th><th columnLabel=\"wca_CMName\" data-sort=\"false\">CM Name&nbsp;</th><th columnLabel=\"wca_deemedAllocown\" data-sort=\"false\">CM Margin Limit&nbsp;</th><th columnLabel=\"wca_cmacno\" data-sort=\"false\">CM Margin Limit&nbsp;</th><th columnLabel=\"wca_valuedate\" data-sort=\"false\">Value Date&nbsp;</th><th columnLabel=\"wca_exchange\" data-sort=\"false\">wca_exchange&nbsp;</th><th columnLabel=\"wca_associatedtm\" data-sort=\"false\">TM / CP Code&nbsp;</th><th columnLabel=\"wca_TMName\" data-sort=\"false\">TM / CP Name&nbsp;</th><th columnLabel=\"wca_assignmentmargin\" data-sort=\"false\">TM / CP Margin Limit&nbsp;</th><th columnLabel=\"wca_actype\" data-sort=\"false\">Account&nbsp;</th><th columnLabel=\"wca_bpid\" data-sort=\"false\">Client Code&nbsp;</th><th columnLabel=\"wca_availablecol\" data-sort=\"false\">Client Margin Limit&nbsp;</th><th columnLabel=\"wca_addlpmargin\" data-sort=\"false\">Blocked Margin&nbsp;</th><th columnLabel=\"wca_utilizedcolpercent\" data-sort=\"false\">Margin Utilization&nbsp;</th><th columnLabel=\"wca_addtnlmargin\" data-sort=\"false\">Cli / TM Mrgn 90% (Rs)&nbsp;</th><th columnLabel=\"wca_adhocmargin\" data-sort=\"false\">Total MU (Rs)&nbsp;</th><th columnLabel=\"wca_concentrationmargin\" data-sort=\"false\">Margin %&nbsp;</th><th columnLabel=\"wca_deemedalloc\" data-sort=\"false\">Deemed Allocation&nbsp;</th><th columnLabel=\"wca_extremelossmargin\" data-sort=\"false\">ELM&nbsp;</th><th columnLabel=\"wca_specialmargin\" data-sort=\"false\">Other Margin&nbsp;</th><th columnLabel=\"wca_initialmargin\" data-sort=\"false\">Span Margin&nbsp;</th><th columnLabel=\"wca_eodmargin\" data-sort=\"false\">Net Buy Premium&nbsp;</th><th columnLabel=\"wca_crystallizedloss\" data-sort=\"false\">Crystallized Loss&nbsp;</th><th columnLabel=\"wca_crossmargin\" data-sort=\"false\">Cross Margin Benefit (Value)&nbsp;</th><th columnLabel=\"wca_collareralLimit\" data-sort=\"false\">Spread Margin&nbsp;</th><th columnLabel=\"wca_netmtm\" data-sort=\"false\">MTM Limit&nbsp;</th><th columnLabel=\"wca_development\" data-sort=\"false\">MTM Profit/Loss&nbsp;</th><th columnLabel=\"wca_grossmtm\" data-sort=\"false\">MTM v/s Limit %&nbsp;</th><th columnLabel=\"wca_BPName\" data-sort=\"false\">Gross /Net&nbsp;</th><th columnLabel=\"wca_ErrorDetails\" data-sort=\"false\">Error Message&nbsp;</th><th columnLabel=\"wca_acreference\" data-sort=\"false\">Client Code&nbsp;</th><th columnLabel=\"wca_acno\" data-sort=\"false\">A/c No.&nbsp;</th><th columnLabel=\"wca_market\" data-sort=\"false\">wca_market&nbsp;</th><th columnLabel=\"wca_addmtmmargin\" data-sort=\"false\">Addl. MTM&nbsp;</th><th columnLabel=\"wca_deliverymargin\" data-sort=\"false\">wca_deliverymargin&nbsp;</th><th columnLabel=\"wca_tenderedmargin\" data-sort=\"false\">wca_tenderedmargin&nbsp;</th><th columnLabel=\"wca_marginnPercent\" data-sort=\"false\">wca_marginnPercent&nbsp;</th><th columnLabel=\"wca_mtmLimit\" data-sort=\"false\">wca_mtmLimit&nbsp;</th><th columnLabel=\"wca_marginCallType\" data-sort=\"false\">wca_marginCallType&nbsp;</th><th columnLabel=\"wca_category\" data-sort=\"false\">Category&nbsp;</th><th columnLabel=\"wca_status\" data-sort=\"false\">Status&nbsp;</th><th columnLabel=\"wca_workflowStatus\" data-sort=\"false\">Workflow Status&nbsp;</th><th class=\"hide\">Index</th></tr></thead><tbody><tr class=\"c_even_Row\" tableId=\"RSK335_Table\" tabindex=\"0\" maskRow=\"false\"><td svrVal=\"9650\" isSvrValReq=\"false\" class=\" \">9650</td><td svrVal=\"GLOBE DERIVATIVES AND SECURITIES LIMITED\" isSvrValReq=\"false\" class=\" \">GLOBE DERIVATIVES AND SECURITIES LIMITED</td><td svrVal=\"9.0336698145E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">903,366,981.45</td><td svrVal=\"903366981.45\" isSvrValReq=\"false\" class=\" hide\">903366981.45</td><td svrVal=\"20250918\" isSvrValReq=\"false\" class=\"alignCenter hide\">18/09/2025</td><td svrVal=\"56835\" isSvrValReq=\"false\" class=\" hide\">56835</td><td svrVal=\"56835\" isSvrValReq=\"false\" class=\" \">56835</td><td svrVal=\"RAGHUNANDAN CAPITAL PRIVATE LIMITED\" isSvrValReq=\"false\" class=\" \">RAGHUNANDAN CAPITAL PRIVATE LIMITED</td><td svrVal=\"7.0955149651E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">709,551,496.51</td><td svrVal=\"PRO\" isSvrValReq=\"false\" class=\" \">PRO</td><td svrVal=\"\" isSvrValReq=\"false\" class=\" \">&nbsp;</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.00</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.00</td><td svrVal=\"5.0572762562E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">505,727,625.62</td><td svrVal=\"2.557165135E7\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">25,571,651.35</td><td svrVal=\"5.3129927697E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">531,299,276.97</td><td svrVal=\"74.87\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">74.87</td><td svrVal=\"1.651619723E7\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">16,516,197.23</td><td svrVal=\"8.231717262E7\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">82,317,172.62</td><td svrVal=\"1276082.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">1,276,082.00</td><td svrVal=\"4.22134371E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">422,134,371.00</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.00</td><td svrVal=\"-773122.09\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">-773,122.09</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.00</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.00</td><td svrVal=\"8.152509208E8\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">815,250,920.80</td><td svrVal=\"-1079112.53\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">-1,079,112.53</td><td svrVal=\"0.13\" isSvrValReq=\"false\" class=\"alignRight \" isAmountField=\"true\">0.13</td><td svrVal=\"GRSS\" isSvrValReq=\"false\" class=\" \">GRSS</td><td svrVal=\"\" isSvrValReq=\"false\" class=\" \">&nbsp;</td><td svrVal=\"56835\" isSvrValReq=\"false\" class=\" hide\">56835</td><td svrVal=\"233213\" isSvrValReq=\"false\" class=\" hide\">233213</td><td svrVal=\"BROK\" isSvrValReq=\"false\" class=\" hide\">BROK</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight hide\" isAmountField=\"true\">0</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight hide\" isAmountField=\"true\">0</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\"alignRight hide\" isAmountField=\"true\">0</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\" hide\">0.0</td><td svrVal=\"0.0\" isSvrValReq=\"false\" class=\" hide\">0.0</td><td svrVal=\"PROP\" isSvrValReq=\"true\" class=\" hide\">PROP</td><td svrVal=\"\" isSvrValReq=\"true\" class=\" hide\">&nbsp;</td><td svrVal=\"2\" isSvrValReq=\"true\" class=\" \">Active</td><td svrVal=\"2\" isSvrValReq=\"true\" class=\" \">Active</td><td class=\"hide\">0</td></tr></tbody></table></DIV></FIELDSET> <INPUT TYPE='hidden' id=\"wcaHdrMap_RSK335_Table\" value=\"a={$$wca_associatedcm$$:$$CM Name ID$$,$$wca_CMName$$:$$CM Name$$,$$wca_deemedAllocown$$:$$CM Margin Limit$$,$$wca_cmacno$$:$$CM Margin Limit$$,$$wca_valuedate$$:$$Value Date$$,$$wca_exchange$$:$$wca_exchange$$,$$wca_associatedtm$$:$$TM / CP Code$$,$$wca_TMName$$:$$TM / CP Name$$,$$wca_assignmentmargin$$:$$TM / CP Margin Limit$$,$$wca_actype$$:$$Account$$,$$wca_bpid$$:$$Client Code$$,$$wca_availablecol$$:$$Client Margin Limit$$,$$wca_addlpmargin$$:$$Blocked Margin$$,$$wca_utilizedcolpercent$$:$$Margin Utilization$$,$$wca_addtnlmargin$$:$$Cli / TM Mrgn 90% (Rs)$$,$$wca_adhocmargin$$:$$Total MU (Rs)$$,$$wca_concentrationmargin$$:$$Margin %$$,$$wca_deemedalloc$$:$$Deemed Allocation$$,$$wca_extremelossmargin$$:$$ELM$$,$$wca_specialmargin$$:$$Other Margin$$,$$wca_initialmargin$$:$$Span Margin$$,$$wca_eodmargin$$:$$Net Buy Premium$$,$$wca_crystallizedloss$$:$$Crystallized Loss$$,$$wca_crossmargin$$:$$Cross Margin Benefit (Value)$$,$$wca_collareralLimit$$:$$Spread Margin$$,$$wca_netmtm$$:$$MTM Limit$$,$$wca_development$$:$$MTM Profit/Loss$$,$$wca_grossmtm$$:$$MTM v/s Limit %$$,$$wca_BPName$$:$$Gross /Net$$,$$wca_ErrorDetails$$:$$Error Message$$,$$wca_acreference$$:$$Client Code$$,$$wca_acno$$:$$A/c No.$$,$$wca_market$$:$$wca_market$$,$$wca_addmtmmargin$$:$$Addl. MTM$$,$$wca_deliverymargin$$:$$wca_deliverymargin$$,$$wca_tenderedmargin$$:$$wca_tenderedmargin$$,$$wca_marginnPercent$$:$$wca_marginnPercent$$,$$wca_mtmLimit$$:$$wca_mtmLimit$$,$$wca_marginCallType$$:$$wca_marginCallType$$,$$wca_category$$:$$Category$$,$$wca_status$$:$$Status$$,$$wca_workflowStatus$$:$$Workflow Status$$}\"> <INPUT TYPE='hidden' id=\"mHdrMap_RSK335_Table\" value=\"b={$$wca_associatedcm$$:$$CM Name ID$$,$$wca_CMName$$:$$CM Name$$,$$wca_deemedAllocown$$:$$CM Margin Limit$$,$$wca_cmacno$$:$$CM Margin Limit$$,$$wca_valuedate$$:$$Value Date$$,$$wca_exchange$$:$$wca_exchange$$,$$wca_associatedtm$$:$$TM / CP Code$$,$$wca_TMName$$:$$TM / CP Name$$,$$wca_assignmentmargin$$:$$TM / CP Margin Limit$$,$$wca_actype$$:$$Account$$,$$wca_bpid$$:$$Client Code$$,$$wca_availablecol$$:$$Client Margin Limit$$,$$wca_addlpmargin$$:$$Blocked Margin$$,$$wca_utilizedcolpercent$$:$$Margin Utilization$$,$$wca_addtnlmargin$$:$$Cli / TM Mrgn 90% (Rs)$$,$$wca_adhocmargin$$:$$Total MU (Rs)$$,$$wca_concentrationmargin$$:$$Margin %$$,$$wca_deemedalloc$$:$$Deemed Allocation$$,$$wca_extremelossmargin$$:$$ELM$$,$$wca_specialmargin$$:$$Other Margin$$,$$wca_initialmargin$$:$$Span Margin$$,$$wca_eodmargin$$:$$Net Buy Premium$$,$$wca_crystallizedloss$$:$$Crystallized Loss$$,$$wca_crossmargin$$:$$Cross Margin Benefit (Value)$$,$$wca_collareralLimit$$:$$Spread Margin$$,$$wca_netmtm$$:$$MTM Limit$$,$$wca_development$$:$$MTM Profit/Loss$$,$$wca_grossmtm$$:$$MTM v/s Limit %$$,$$wca_BPName$$:$$Gross /Net$$,$$wca_ErrorDetails$$:$$Error Message$$,$$wca_acreference$$:$$Client Code$$,$$wca_acno$$:$$A/c No.$$,$$wca_market$$:$$wca_market$$,$$wca_addmtmmargin$$:$$Addl. MTM$$,$$wca_deliverymargin$$:$$wca_deliverymargin$$,$$wca_tenderedmargin$$:$$wca_tenderedmargin$$,$$wca_marginnPercent$$:$$wca_marginnPercent$$,$$wca_mtmLimit$$:$$wca_mtmLimit$$,$$wca_marginCallType$$:$$wca_marginCallType$$,$$wca_category$$:$$Category$$,$$wca_status$$:$$Status$$,$$wca_workflowStatus$$:$$Workflow Status$$}\"> <INPUT TYPE='hidden' id=\"wcStrut_RSK335_Table\" value=\"c=['wca_initialmargin','wca_acreference','wca_crossmargin','wca_addlpmargin','wca_netmtm','wca_associatedtm','wca_deliverymargin','wca_availablecol','wca_actype','wca_deemedalloc','wca_crystallizedloss','wca_marginCallType','wca_cmacno','wca_mtmLimit','wca_adhocmargin','wca_market','wca_valuedate','wca_deemedAllocown','wca_utilizedcolpercent','wca_tenderedmargin','wca_exchange','wca_TMName','wca_addmtmmargin','wca_extremelossmargin','wca_grossmtm','wca_addtnlmargin','wca_eodmargin','wca_marginnPercent','wca_assignmentmargin','wca_ErrorDetails','wca_category','wca_specialmargin','wca_BPName','wca_CMName','wca_acno','wca_bpid','wca_workflowStatus','wca_status','wca_concentrationmargin','wca_associatedcm','wca_collareralLimit','wca_development']\"> <INPUT TYPE='hidden' id=\"mVsbltyMap_RSK335_Table\" value=\"d={$$wca_initialmargin$$:$$true$$,$$wca_acreference$$:$$false$$,$$wca_crossmargin$$:$$true$$,$$wca_addlpmargin$$:$$true$$,$$wca_netmtm$$:$$true$$,$$wca_associatedtm$$:$$true$$,$$wca_deliverymargin$$:$$false$$,$$wca_availablecol$$:$$true$$,$$wca_actype$$:$$true$$,$$wca_deemedalloc$$:$$true$$,$$wca_crystallizedloss$$:$$true$$,$$wca_marginCallType$$:$$false$$,$$wca_cmacno$$:$$false$$,$$wca_mtmLimit$$:$$false$$,$$wca_adhocmargin$$:$$true$$,$$wca_market$$:$$false$$,$$wca_valuedate$$:$$false$$,$$wca_deemedAllocown$$:$$true$$,$$wca_utilizedcolpercent$$:$$true$$,$$wca_tenderedmargin$$:$$false$$,$$wca_exchange$$:$$false$$,$$wca_TMName$$:$$true$$,$$wca_addmtmmargin$$:$$false$$,$$wca_extremelossmargin$$:$$true$$,$$wca_grossmtm$$:$$true$$,$$wca_addtnlmargin$$:$$true$$,$$wca_eodmargin$$:$$true$$,$$wca_marginnPercent$$:$$false$$,$$wca_assignmentmargin$$:$$true$$,$$wca_ErrorDetails$$:$$true$$,$$wca_category$$:$$false$$,$$wca_specialmargin$$:$$true$$,$$wca_BPName$$:$$true$$,$$wca_CMName$$:$$true$$,$$wca_acno$$:$$false$$,$$wca_bpid$$:$$true$$,$$wca_workflowStatus$$:$$true$$,$$wca_status$$:$$true$$,$$wca_concentrationmargin$$:$$true$$,$$wca_associatedcm$$:$$true$$,$$wca_collareralLimit$$:$$true$$,$$wca_development$$:$$true$$}\"> <INPUT TYPE='hidden' id=\"chartConfig_\" value=\"false\"> <INPUT TYPE='hidden' id=\"dashboardLabels_\" value=\"[]\">\n\n\n\n",
+    "request_raw_file": "raw\\request_1758196455_c6049e2f60fd413f963810547e940cbc.bin",
+    "response_raw_file": "raw\\response_1758196455_5d9d16baeb8a4280a4d67b16b107a11e.bin",
+    "request_raw_len": 3466,
+    "response_raw_len": 16787
+  },
+  "safebrowsing.googleapis.com": {
+    "timestamp": 1758196181,
+    "host": "safebrowsing.googleapis.com",
+    "scheme": "https",
+    "method": "GET",
+    "http_version": "HTTP/2.0",
+    "full_url": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDT-RwaAhgHING-ECICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEOKgEhoCGAfzwrnYIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ75gSGgIYBx-qFQAiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDOwBIaAhgHYpsKRSICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgH9wNdlCICIAIoAQ==",
+    "path": "/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDT-RwaAhgHING-ECICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEOKgEhoCGAfzwrnYIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ75gSGgIYBx-qFQAiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDOwBIaAhgHYpsKRSICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgH9wNdlCICIAIoAQ==",
+    "query": [
+      [
+        "$ct",
+        "application/x-protobuf"
+      ],
+      [
+        "key",
+        "AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo"
+      ],
+      [
+        "$httpMethod",
+        "POST"
+      ],
+      [
+        "$req",
+        "ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARDT-RwaAhgHING-ECICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEOKgEhoCGAfzwrnYIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ75gSGgIYBx-qFQAiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDOwBIaAhgHYpsKRSICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgH9wNdlCICIAIoAQ=="
+      ]
+    ],
+    "request_headers": [
+      [
+        "user-agent",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+      ],
+      [
+        "accept",
+        "*/*"
+      ],
+      [
+        "accept-language",
+        "en-US,en;q=0.5"
+      ],
+      [
+        "accept-encoding",
+        "gzip, deflate, br, zstd"
+      ],
+      [
+        "x-http-method-override",
+        "POST"
+      ],
+      [
+        "sec-fetch-dest",
+        "empty"
+      ],
+      [
+        "sec-fetch-mode",
+        "no-cors"
+      ],
+      [
+        "sec-fetch-site",
+        "none"
+      ],
+      [
+        "priority",
+        "u=4"
+      ],
+      [
+        "pragma",
+        "no-cache"
+      ],
+      [
+        "cache-control",
+        "no-cache"
+      ],
+      [
+        "te",
+        "trailers"
+      ]
+    ],
+    "response_status": 200,
+    "response_reason": "",
+    "response_headers": [
+      [
+        "content-disposition",
+        "attachment"
+      ],
+      [
+        "server",
+        "scaffolding on HTTPServer2"
+      ],
+      [
+        "content-length",
+        "2923"
+      ],
+      [
+        "x-xss-protection",
+        "0"
+      ],
+      [
+        "x-frame-options",
+        "SAMEORIGIN"
+      ],
+      [
+        "x-content-type-options",
+        "nosniff"
+      ],
+      [
+        "date",
+        "Thu, 18 Sep 2025 11:44:29 GMT"
+      ],
+      [
+        "content-type",
+        "application/x-protobuf"
+      ],
+      [
+        "vary",
+        "Accept-Encoding"
+      ],
+      [
+        "age",
+        "312"
+      ],
+      [
+        "alt-svc",
+        "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ]
+    ],
+    "request_body_parsed": null,
+    "response_body_parsed": "\n\u0089\u0012\b\u0005\u0010\u0001\u0018\u0001 \u0001*\u0084\r\b\u0002\"\u00ff\f\b\u00d4\u00b3\u00b6\t\u0010\u0016\u0018\u009c\u0004\"\u00f2\f\u00ac\u00fd\u00f1uK\u00e6\u00cd\u00f4\u0085n3\u00d0K\u00c5#\u0012v\u00fcB\u00a8\u0012Y\u00ec\u00c0t\u00ad\u00f1\u001f\u001c\u009d\u00fdV\u00c7\u00faCg\u009d\u00feuG_h\u00e3,\u00bbO\u00d4\u00fd|f\u00ef\u009f\u0097\f\u0018\u00a2\u0090\u0014\u001f\u00a2\u0016\u008a\u00c5\u0092\u00d0\r\u00dc<\u0083\u00ed\u00c2\u000e\u0098\u009b9\u00aa\u00f4\u00d4\u00cfu\u00a1\u00a3\u00b4\u0010\u000bD~\u0085\u00ba\u00c6\u00be\u0082\u0096\u00eco\u00fek\u000efq]\u0006\u0016\u001f\u00a7\f\u009e\u00d4\u0004M\u009e\u0019\u0089Y=.\u0014\u0097v\u001c\u00d1?-^V\u00eb\u0000O\u0010n\u001573\u0001)\u00a4n\u00a1\u00ac\u00c7\u00e8\u00e0\u0000\u00d2\u00fb[\u0013i\u008aXe\u0090\u008f\u00b0i\u00bc\u0097\u00c8\u009cO\u0082\u00b8\u00d1\u00fe\u00ae4\u00c4\u00fd\u00f8\u00ee\u0000x\u00e9\u0082\u0093\u00e6\u00ccg\u009dV\u001d\u008f \u00d2aA\u00c4\u0084r\u00e5{\u00f3\t\u00ed)Q\u00c5\u00ef\u00b9\u007f\u00c0\u00b7\\Qr\u00b8I\u001c\u009a\u00fb\u0096\u00dc\u008bW#\u00b8vp)U\u00ef?t}\u00f1=\u0000\u00b2\u00ba\u00f0\u00815\u00b8^\u00e7\u00ff\u00f3\u008e|\u00e5il\u009f\u009c\u00b2\u00f2\u00b8\u0006#Y\u00ef\u0004\u009eZ\u001doK\u00d2\u00c4\u001d2\u0018_\u00d7\u0005\u008c\u00c7\"\u001a\u00ae\u0081\u00b1\u00aa#\u009dm\u009a\u00e3U\u00d0\u0003\u00dd\u00d2\b\u00ea\u0011\u0086\u00da\u00a5\u0014\u0097\u0011\u00a1x\u00e7B\u00edJZ\u00af\u000f\u00ef#\u0080S\u008e\u0086\u0017m~;\u00f3\u00cd\u00cb\u00af\u00e3\u0012\u0090\u0011\\UX\u00da\u0084m\u0004s>\u0018\u00dd\u0087\u0014%\u001f\u00e2A\u00f6}\u008b[\u0001\u00fc\u0084\u0012\u00e8\u008f\u00f3JO\u0003\u00cf@\u00dad\\@^\u00a8\u0017\u00ef\u00b5]\u008cS\u0014\u00d2\u0011=\u00a2\u000e\u00eb!\u00d5\u0010\u0010\nh\u0086(\u00c97\u00c4\u00e1\u00e2<\u008ccgAz&\u00a9Z\u00d8\u00f8\u0003\u009f\u009aaX\u00daHF\u00b1\u00a0\u001a\u0015>\u00c7\u00ca\u00a1\u00f2\u009f.5\u00aflO\u0099\u00ba\u00c4?lL\u00ce\u001fr\u00a5\u00cf\u0089\u00d0\u0095\u0016.\u00a3\u00f5.\u00b1\u00aa\u00f71\u001d!\u00ad\u00cfn\u0018{\u00f3}\u00b1\u0015?Y/;\u0001co\u00e8\b\u00cd\u009a\t\u00bfC\u008bi1!\u009f\u00e4`\u000e_n\u00da\u0081\u0099@\u008d-u\u00d7LA\u00a2\u001b/\u00d0\u00e1\u00fe;\u0098\u00eeE\u00b6\u00d8l\u00f4w\tt\u00a5\u0003\u00f3@\u00cfXL\u00c6\u0082\u00ff\u0093\u00b5l\u00d2\u0089\u00ba\u0006\u0016g\u00e4 @]a\u00fe\u0099\u00ae\u00edq\u00d8\u00c1\u00d4\u007f\u0094-\u00f9\u001b\u0002w\u00df\u00d2Es\u00d0\u0084\u00c7\u00b0\rx\u00bdI\u00839\u00cb\u00bb\u00c8\u00ab\u00f8\u007f\u001c/\u00e5EKr\u0006\u00d7\t0\u00bc\u00e3\u0007\u00c3*~0\u00e3\u00e3\u00dc\u00ea[u\\\u009d\fC\u00ed\u00d5nF\u001c\u00ad\u00cc\u0013\u00cf\u0096nL\u00bb(@\u0091J\u00d3\u001c\u008e\u00a6W\u00fb\u00fb\u00ef2o\u00e6\u00b21K\u0002\u00dd\u00ce2\u00bd\u008d\u008c@\u007f\r\u00e4\u008d\u00f4\u00c7B\u0089\u00cdr\u00c2)N\u0007\u00c7\u00cdc\u00c5\u00cd\u008b\u00c9\u00f1\rw\u0017\u00d2z\u00f5#\u00a2r\u000fc5\"4e@\u00b0\u00b0|\u00bf\u007f\u00f8\u0096,\u009d\u00e2\u00ad\u008c\u000e/ \u00b5\u0007\u00ef\u0084\u00db\u00b4\u001d>C\u00f6=\u007f\u00bd\u00ff\u00e1|\u00d1:\u00fdF\u00c1\u00fe\u009c\u0016\u00ad\u0014\u00a3\u0006D\u00a1\u00f8\u00a2/@\u00ef\u00e4u\u00b8@\u00e3}\u00bdGJ\u0014\u00a2 !,|\u0083*Z\u00b4\u00b7\u00ee\u00d8|c3da\u00f7\u0097y\u0000\u000b\u00c2&\u00ff\n\u0013\u00cd\u00bb\u00f4\u001a\u00de\f\u00c4\u00bb\u001f\u0013\u00ae\u00e3\u008dZ\u00c4\u00e3a\u00c8\u0099\u00eb\u0097\u00fe\u00b5f\u009dB\u008a\u00ca\u0003\u0091\u0090\u00day9HK\u00dd\u001bB\u00c18)\u0014\u00a2^\u0099\u00bcY\u00c7w\u00ec\u00f8\u0007\u00c3\"\u00e6\u00e0\u00d5\u0000t!@\u0086\\\u001f\u00b5j\u00ed\u00b8\f\\\u00c2\u0098\u00f0xJ\u0017i\u0001\u00ce\u00a0\u0094\u0011\u00e1\u0010\u00c01\bx7\u0098{7\u00f3\t\u00fd\u00dfL\u00ef\u00e4:\u00f7[v\u0098\u0080\u00d3\u00ce}\u0019}\u00ce\u009f\u008e\u00e3\u0095\u00e55>75\u009bx\u001e\u00cfw\u0014b\u0017\u00d0G\u00db\u0083\u00b7\u00c2v\u00f1\u00cd\u0088\u00ce\u00031\u00e7\u0015\u00b8'C\u00c9\u00f8\u00a8>\u00bb\u0098N\n\u00ad\u00e1\u00ab\u0099el\u00f1D\"\u00c1\u0081'\u0096\bQ\u009a\u008b\u00cd\u00b6mS\u00b5\u00cd#-1\u00f1\u00062`5&\u00ee\u00e4\u00fd\u00e5N\u00e8\u0017 \u0005\u0013\u0087\u001a\u00a1\u000f+\u00f2\u00f9\u009cW\u00a4\u00c5,\u00e7\u00e7\u00f9\u00ff]\u00b6\u0019\u00e8\u00d3\u0092\u009d\u00d8\u00cf\u00a1\u009eb8<\u0099g\u0094U\u00e6\u00e1\u0011\u00d4\u00c36^3/\u0017;\u00bbj\u0098\u0014\u00b8\f\u00c41\u009a\u009a\u00d4K\u00f1.3[\u009e\u00cb\u00b6um\u00abV\u00c6)B\u00959\u00ffI\u00d8\u001e\"\u00f4\u00ce\u009b&\u0087t\u00ab7\u0002c\u0082\u00cb\u00a7?9\u007fp#\u008bh/\u00fe#\u00b3`\f\u00c2&%\u00c4>jd\u0012\u00b2\u00d6\u00a4=\u00de\u008aQ\u0097\u00e8C\u00d6fD \u001e\u00c784\u00a4\u00c5\n\u00a7\u00b50_|\\\u008f\u0017\u00e30@\u00bb`Gf\u00998\u008d\u00dciVa\u00a2\t\u00e7c\u0090\u00fb\u009f\u00b8\u00aa\u0010\u00f4RM\u00e6\u00a8\u00cc\u00a1\u00ea\u0086[\u0012\bE\u0086\u00e2\u00a5\u009e\u00818\u00ad2\u0006>\u0091\u0097G\u00a0\u00d4\u00fe\u0096}\u00dd\u000b\u00ab\u00e3\u00a18:\u0017\u00fe5\u00a7\u00d01V\u00d7c\f}\u00fc[.\u0081>\u0011\u008af4 \u009fj:l\r\u001dp\u0004r\u00f9\u00b1\u0080\u00e0\"y'\u00e85~\u0082M\u0004\u00a9\u00ef\u00ebC>w\u00862\u00a4\u0004\u00f8\u001b\u00bd\u008cr(\u00bc7\u00e6\u00c7h\u009f\u00e6R\u00eaR\u00a5h\u00ef\u00f3\u00e7\u00a8C\u00bbJJnZXP!\u00ec\u00ed5/j\u008f\u00b7\u008c!\u00e5_X7!\\K\"\u008f\u00a7\u00e5\u00cb\u0006\u00c5\u00db Mq\u00b0|\u0011\u00e8\u00eb\u00ed3\u00fc\u0005\u000b\u00eb\u00f9j\u0092\u00ca\u00d4`48\u00b4\u0002\u00c8\u00a8uP\u0013\f\u00a0|.(\u00c1\u0088Gar\u00c4\u00bbQ\u009d\u0099\u0019\u00c7\u00f4[ts\u00c6\u00fe+\u0095\u0001\u00ff\u00d1\u00cd\u00f9\u00c0\u0086\u00cd\u00ff\"\u0006sk\u00c7_\u009e:\u00c9\u00fc\u00bb\u00e2\u00c9W\u0092a\u00ec\u00eb$>\u0019\u0006\u0089\u00f9\u0087\u00bd\u00e4\u009bE\u008d\"\u0017\u008a\\9\u00ebP\u00cc\u0000\u0010\u0018\u00e3W\u00e1\u008d\u00dc9\u00a4\u009c5\u00db%\u00be\u008f\u00fb\u00e9z\u00dcw\u00f1\u00fbv5\\i\u001c$`6:I\u0018\u0005v\u00fe\u00d4\u00c1\u0099\u0002\u009c)\u00c8\u00cf\u00ddG{>\u00e4\b;\u001a\u00df\u009f+\u0016\u001b\u0017\u00d3\u00a21\u00bbb\u00bb\u00c2\u001az\u00b1\u00c0\u00c6Q\u00cb\n\u0012ud+\u00b9\u000b\u00d4{\"\u00e5*\u009d\u00a0D\u00b9n>\u00f7\u0090\u00df\u00bd\u00ben\u00d3\u00892x0\u00e5\u00cc0\u001b\u0098\u0084?\u000b\u008b\u001b\u00cex\u0011\u00ed\u0094\u00c2\u00f7pJ\u0091\u00d1\u00cd\u00baU{\u00f3+\u00c5\u00c9\u0001-\u00bc\u0006\u0000\u000bsXPU\u001a\u008c-\u009f3\u00eb\u00dc\u00e7A.\u00c9\u0091k%\u009d\u00c0\u009a\u00b6\u008cx\u00cd\u00b8\u00d6\u00f7\u00f7/\u0003\u0012\u00bdv\u009d\u001f\u00dd3\u00ff5p\u0001$\u00af\u0087&\\0\u00c1qP\u00a0\u0089#\u00af\u00ee\u009fW\u00fc\u00b2|+F\u0001\u000f\u00c4At\u0003\u0085a\u00aaS\u0087\u00ae\u00b8\u00bfR\u00da\u00d1\u00c3T\u00a1\u00c8\u00a6\u00eel(|\u0097\u00abj\u00fcA\u00ce\u009a\u00c730$\u00d0o\u00f8EZ\u00c3\u00fca\u00ad\u000f=\b\u00a7\u0091\u00e5Vs\u0096\u000bY.\u0091\u00c2\u009c\u00aa\u00a0'\u00ben$\u00bb\n\u00f5\u00af\u008131e\u00aa\u00802Y\u00e6\u00d6\u008b~\u00e7\u00d6\u009b\u00b6\u00032\u00b6\u0004\b\u0002*\u00b1\u0004\b\u00ac=\u0010\r\u0018\u009d\u0002\"\u00a6\u0004\u0018\u00c1\u000f\u00fd\u00a4an\u00ed\u00b5K~\u0082\u00ac\u00d1h\u00d1H|\u00ed\u00f8\u00c4\u00dcI\u0014\u00d50R\u00f7\u00f0\u00ef\u00ef\u00ce\u00e0\u00b6\u008c\u001a\u00d3\u0014:T\f\u008f\u009b\u00eehj!?e/\u001d\u0000#\u0014\u00bf`A\u00daE \u00db\\\u0087\u00f3+W\u00e9\u00a4q\u0092\u00ab\u0099\u00dc\u007f\u008b\u00ec\u0081\u00ffB\u00e5\u00fd\u00ca\u00d3\u00ac\u00c8\u00cd\u00e0\u00f5\u008eQi\u00e3\u00b44\b\u00fa\u009bz\u0086\u00e8\u00fd\u00eb\u001e\u00cbWKQ\u00f8\u00e2\u00de\u001f<\\H\u0086e7\f\u00d3o\u0016v\u00c3F\u00f8S%\u00dd\u0003%[\u00e6\u008fr\u00a8\u00d8\u00cfN8`\u009d\u008d\u00c3\\\u0089b\u0095m\u00f7\u00c6\u00f3\u00f8gZv\u00ba3\u0010\u00fb\u00adi1\f0\u00e1\"*\u009f\u00bb\u00e6;\u00c6\u00b9\u00f5E<\u00ab!\u00cf\u00b5<!\u00daX\u00f8\u00a5\u00e7\u007f\u00865\u00efKc;\u00f0v$Bd\u00a3\u007f\u0014>\u0090\u00b0\u00d7L\u009d\f@vr\u00e7i5@h\u0010\u00edP\u0092\u0016\u000b(\u00ca\u00f0\u0082\u0015\u00e2\u00fd\u00a6P\u00f0\u00f8\u00af\u0007\f\u009f\u00d4rBY \u00d2\u00fc\u00d0\u001d\u00dc\u00a6\u0094\u00103\u0015\u00fb\u0004\u0019\u00ed9\u00d2\u00f7C;\u001b\u00feA\u00d6\u00ddD\u00ef\u009ak24\u00cb\u00be\u00df\u001b\u0094\u00a7\u00c1\u00d2\u00fdQ\u00e0&\u001d\u00d2{\u0013\u0012\u0098\u000fv\u00b3{\u00e8\u00d2w\u00b1\u000f\u001f\u00b8f\u008c\u000e\u0098\u00de\u00fd\u0019\u000e\u00e3M\u00d1\u0014w\u00c3qz?\u00e2j\u00f5m\u00f5s\u00af\u00b9\u0094\bu\u00b3\u0001\u009a\u00dd1(\u00e9\u00a6\u0083\u00f9\u00a1t\u00c1\u00fd\u0095\u007f(\t\u00f3`\u00ec\u008eV\u00a12\u00cc\u00d0\u00d0\u00c8O r0\u00fb\u00ce3\u0000M\u00893\u0081\u001cO\u00b6$\u00d2\u001a:\u0099z]\u0091P\u00cd:\u00bf-\u009d\u00bd\u009d\u0098\u0091\u00f2\u00d4Bq\u009c\u00e6_39\u0091\u00eb\u001eNnwFg\u00fe\u0093[\u0094N\u00d4\u0094'\u00ae\u009a\u0088\u001a{\u00a9\u009947N\u008e\u0012\u0000\u00e7\u00ef6\u00bc\u00ff\u0080\u00a3B$8\u00c2J\u00e4p\u00c0\u00a0:\u0011\u00f9\u0007\u00bb\u00c0\u0085&k\u00b0f\u0004\u00cbo\u00c8\u00c1\u00a2\u00a0C?+\u0014\u00e6\u00fe\u00df\u0000\u00a6dZ\u000f\u00af\r\u00d7k\n\u001d*\u00d1\u00d8j\u0089\u00e9`\u00f9\r\u00f5\u00cb\u00a8\u00cb\u00bf\u001e\u00c0iF\b\u00e1H\u00ad\u00e5G\u00cf,\u00ea\u00acw\u00e4\u00eagX,=A\r\u00dc\u00b13)\u00da\u00bf\u0081\u00d4\u00e9\u0088\u00fa\u0096\u000b\u001a\u0012\u00e9\u00c2m\u00d8p\u00e5\u0016)\u00e1\u0086\u00d7?\u00e4w\u00d2\u000e:\u001b\n\r\b\u0005\u0010\u0006\u0018\u0001\"\u00030010\u0001\u0010\u00d8\u00f9\u001c\u001a\u0002\u0018\u0007\u0090\u00ab\u00b1\u00a7B\"\n F\u00e1\n\u0000\u00ee\b\u0001\u0096\u0087\u0099y\u00f1Y\u00caB\u0098\u001a/!\u00bd\u00e0\u00a3\u009adQ1N:tQ(\u00c7\n\u00b5\u0001\b\u0001\u0010\u0001\u0018\u0001 \u0001*@\b\u0002\"<\b\u008f\u00cd\u00a7W\u0010\u001c\u0018\r\"1JY\u00f6\u00aao\u0094#\u0004\u00b7Hu.\u00b7\u0011\u0015\u00e2oY\u00e0[(\u0016N\n\u00db\u00c0dN\u00af\u00a3\u00bf\u00a1\u008b\u00e2_\u0014\u00e1\u0011l=\u00f1\u00fdd\t:\u00df\u00d1$\u00022(\b\u0002*$\b\u0097\r\u0010\u000b\u0018\u0011\"\u001b\u0088?\u00cf\u0086\u00ad/W`J\u0014X\u00d1\u00f32\u0003\u009dr.\u0014\u00cbq+\"\u0016\u00fcv2:\u001b\n\r\b\u0001\u0010\u0006\u0018\u0001\"\u00030010\u0001\u0010\u00e7\u00a0\u0012\u001a\u0002\u0018\u0007\u009b\u00c4c\u00d6B\"\n \u0011\u00d7\u0001P\u00ff\u00f7(\u00a2\u00f80\u00bb\u00cf\u00fa\u00c7<,\u0081\u00a2i\u00bd\u00b4\u00d0\u00b1\u00f7\u008c~\u0097c\u00c8A\u00ee\u001d\n\u00d3\u0001\b\u0003\u0010\u0001\u0018\u0001 \u0001*[\b\u0002\"W\b\u00ed\u00a5\u00ed\u001d\u0010\u001b\u0018\u0015\"L\u0003\u0012 T{% \u0011\u00cfP\u00f9\u00d4\u007f\u0018\u0082\u00f7M|\u00b6\u00d7L\u009d\u00d9\u00b6`\u0088\u00b4\u00d9\u00b0<\u00e3\u00c5[\u008b{\u00f5;\u008f\u0099\u00efW>\u00fc\u00a26\u0018j\u00f0<\u00cb\u008c/\u00a5\u0080\u00d0\u00f0\u0093\u00be\"M{@\u00b6\u001e\u00b6%DX\u0083\u00e0-\u0084L\u0087+\"2+\b\u0002*'\b\u00b5\r\u0010\n\u0018\u0014\"\u001e\u00c1J\u0013K|\u0080{}\u0012A\u0091\u00e0\u00f8R\u00a8\u00a8&\u00d3\u0090\u009b6<\u009eX\u00b0\u00c3(\u00bc\u0085\b:\u001b\n\r\b\u0003\u0010\u0006\u0018\u0001\"\u00030010\u0001\u0010\u00f4\u0098\u0012\u001a\u0002\u0018\u0007\u0003\u00f3\u00ef\u00beB\"\n \u009eqt\u00bf\u0086\u001c\u0082-\u009a\u0080bH\u00fa\u009c\u00dd\u0091\u0084\u001f*\u00d3\u001b\u00bf\u000f\u00fca\u0083A\u008d\u00a4\u00075\u0013\n{\b\u0007\u0010\u0001\u0018\u0001 \u0001*'\b\u0002\"#\b\u00f1\u00af\u00acf\u0010\u001c\u0018\u0006\"\u0018\u0093|\u00ad\u0019\u0097\u00db\u0088:6@\u00fa\u00f9\u00a1\u007f\u00be\u0016\u00c9S\u007f8<\u00a0{\u00042\u0007\b\u0002*\u0003\b\u00a0#:\u001b\n\r\b\u0007\u0010\u0006\u0018\u0001\"\u00030010\u0001\u0010\u00d3\u00c0\u0012\u001a\u0002\u0018\u0007\u00fb\nI$B\"\n \u000e\u000e\u0099\u0089z\u001b\u00e0\u00ac\u00b6\u00ae\u00d3\u0090b\u00a1\u009e\u00e2\u00a7i?X\u00df\u0099\u0094nY\u0012\u00a2f\u00da\u00c22T\nG\b\t\u0010\u0001\u0018\u0001 \u0001:\u0019\n\r\b\t\u0010\u0006\u0018\u0001\"\u00030010\u0001\u0010#\u001a\u0002\u0018\u0007\u00f7\u0003]\u0094B\"\n \u00a4\u00e3\u00aebm\u00a9\bnC\u001f{PL\u0083\u0014\u00c7\u0018\u00be\u0091\u00e0\u009f\u00cd^\u00af\u000b}[\u0010\u00c2\u00059\u0011\u0012\t\b\u008b\u000e\u0010\u00c0\u00db\u009b\u00cf\u0002",
+    "request_raw_file": "raw\\request_1758196181_cf7fcaa0f98f40c797032502e371f870.bin",
+    "response_raw_file": "raw\\response_1758196181_ff8be211fc704f188ac078806525d2ba.bin",
+    "request_raw_len": 801,
+    "response_raw_len": 3284
+  },
+  "ads.mozilla.org": {
+    "timestamp": 1758196461,
+    "host": "ads.mozilla.org",
+    "scheme": "https",
+    "method": "POST",
+    "http_version": "HTTP/2.0",
+    "full_url": "https://ads.mozilla.org/v1/ads",
+    "path": "/v1/ads",
+    "query": [],
+    "request_headers": [
+      [
+        "user-agent",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+      ],
+      [
+        "accept",
+        "*/*"
+      ],
+      [
+        "accept-language",
+        "en-US,en;q=0.5"
+      ],
+      [
+        "accept-encoding",
+        "gzip, deflate, br, zstd"
+      ],
+      [
+        "content-type",
+        "application/json"
+      ],
+      [
+        "content-length",
+        "237"
+      ],
+      [
+        "priority",
+        "u=4"
+      ],
+      [
+        "te",
+        "trailers"
+      ]
+    ],
+    "response_status": 200,
+    "response_reason": "",
+    "response_headers": [
+      [
+        "content-type",
+        "application/json"
+      ],
+      [
+        "strict-transport-security",
+        "max-age=31536000"
+      ],
+      [
+        "date",
+        "Thu, 18 Sep 2025 11:54:20 GMT"
+      ],
+      [
+        "content-length",
+        "59"
+      ],
+      [
+        "via",
+        "1.1 google"
+      ],
+      [
+        "alt-svc",
+        "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+      ]
+    ],
+    "request_body_parsed": {
+      "context_id": "637c206f-cc2b-4331-aecf-65da005a03ca",
+      "placements": [
+        {
+          "placement": "newtab_tile_1",
+          "count": 1
+        },
+        {
+          "placement": "newtab_tile_2",
+          "count": 1
+        },
+        {
+          "placement": "newtab_tile_3",
+          "count": 1
+        }
+      ],
+      "blocks": [
+        "CAMSBmFtYXpvbg"
+      ],
+      "credentials": "omit"
+    },
+    "response_body_parsed": {
+      "newtab_tile_1": [],
+      "newtab_tile_2": [],
+      "newtab_tile_3": []
+    },
+    "request_raw_file": "raw\\request_1758196461_f900d4f9b92e49da91d9cb6d49b265b8.bin",
+    "response_raw_file": "raw\\response_1758196461_b9ae96411de24da28f7bca512bdfab54.bin",
+    "request_raw_len": 531,
+    "response_raw_len": 289
+  }
+}
